@@ -3,11 +3,9 @@
 ### 🚀 Computer Engineering @ University of Waterloo | Class of 2030
 I'm a passionate Full Stack Developer and AI enthusiast based in Waterloo, ON. I love building scalable web applications, architecting AI agents, and competing in hackathons.
 
-- 🔭 I'm currently working on **a variety of full stack projects and  attending hackathons **
+- 🔭 I'm currently working on **a variety of full stack projects and  attending hackathons.**
 
 - 🌱 I'm currently learning **Backend architecture, scalable systems, and Agentic AI workflows.**
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **vmehandi@uwaterloo.ca**
 
